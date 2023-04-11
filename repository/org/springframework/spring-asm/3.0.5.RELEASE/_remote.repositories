@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 01 12:34:27 IST 2022
+spring-asm-3.0.5.RELEASE.jar>central=
+spring-asm-3.0.5.RELEASE-sources.jar>central=
+spring-asm-3.0.5.RELEASE.pom>central=

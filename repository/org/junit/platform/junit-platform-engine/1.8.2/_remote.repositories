@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 04 12:41:21 IST 2022
+junit-platform-engine-1.8.2-sources.jar>central=
+junit-platform-engine-1.8.2.pom>central=
+junit-platform-engine-1.8.2.jar>central=

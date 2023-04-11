@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 04 16:04:25 IST 2022
+spring-boot-starter-data-jpa-2.6.3.jar>central=
+spring-boot-starter-data-jpa-2.6.3.pom>central=
+spring-boot-starter-data-jpa-2.6.3-sources.jar>central=
